@@ -1,2 +1,2 @@
 # Introduction-to-Machine-Learning
-Unimelb Comp 90049
+The University of Melbourne (unimelb) COMP90049_2021_SM1
